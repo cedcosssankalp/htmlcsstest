@@ -1,0 +1,227 @@
+container{
+    margin: auto;
+    border: 2px solid green;
+    width: 450px;
+    height: 550px;
+    background-color: gray;
+}
+
+.screen{
+    margin: auto;
+    margin-top: 2px;
+    border: 2px solid black;
+    background-color: gray;
+    padding-bottom: 20px;
+    width: 416px;
+    height: 100px;
+}
+
+.keypad{
+    margin: auto;
+border: 2px solid black;
+    width: 416px;
+    height: 400px;
+}
+
+.ac{
+    margin: auto; 
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    font-size: 50PX;
+    background-color: gray;
+    float: left;
+    text-align: center;
+}
+
+.num1{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+    background-color: gray;
+}
+
+.mod{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    font-size: 50PX;
+    float: left; 
+    text-align: center; 
+     background-color: gray;
+}
+
+.divide{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+    background-color:rgb(175, 75, 39);;
+}
+
+.seven{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+    background-color: gray;
+}
+
+.eight{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+    background-color: gray;
+}
+
+.nine{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+    background-color: gray;
+}
+
+.mul{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+    background-color: rgb(175, 75, 39);;
+}
+
+
+.four{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+    background-color: gray;
+}
+
+.five{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    font-size: 50PX;
+    float: left;
+    background-color: gray;
+    text-align: center;
+}
+
+.six{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    background-color: gray;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+}
+
+.sub{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    background-color: rgb(175, 75, 39);;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+}
+
+
+.one{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    background-color: gray;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+}
+
+.two{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    font-size: 50PX;
+    background-color: gray;
+    float: left;
+    text-align: center;
+}
+
+.three{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    background-color: gray;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+}
+
+
+.add{
+    border: 2px solid black;
+    width: 100px;
+    height: 75px;
+    background-color: rgb(175, 75, 39);
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+}
+
+.zero{
+    border: 2px solid black;
+    width: 203px;
+    background-color: gray;
+    height: 80px;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+}
+
+.dot{
+    border: 2px solid black;
+    width: 100px;
+    height: 80px;
+    background-color: gray;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+}
+
+
+.equal{
+    border: 2px solid black;
+    width: 100px;
+    background-color: rgb(175, 75, 39);;
+    height: 80px;
+    font-size: 50PX;
+    float: left;
+    text-align: center;
+}
+#body
+{
+    background-color: black;
+}
+p{
+    text-align: right;
+    font-size: 200%;
+}
